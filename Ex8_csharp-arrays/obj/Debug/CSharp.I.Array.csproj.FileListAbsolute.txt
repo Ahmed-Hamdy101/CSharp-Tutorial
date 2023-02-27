@@ -1,0 +1,7 @@
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\bin\Debug\CSharp.I.Array.exe.config
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\bin\Debug\CSharp.I.Array.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\bin\Debug\CSharp.I.Array.pdb
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\obj\Debug\CSharp.I.Array.csprojAssemblyReference.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\obj\Debug\CSharp.I.Array.csproj.CoreCompileInputs.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\obj\Debug\CSharp.I.Array.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.I.Array\obj\Debug\CSharp.I.Array.pdb

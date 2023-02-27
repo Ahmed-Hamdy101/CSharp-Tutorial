@@ -1,0 +1,7 @@
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\obj\Debug\CSharp.a.HelloWorld.csprojAssemblyReference.cache
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\obj\Debug\CSharp.a.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp\obj\Debug\CSharp.pdb

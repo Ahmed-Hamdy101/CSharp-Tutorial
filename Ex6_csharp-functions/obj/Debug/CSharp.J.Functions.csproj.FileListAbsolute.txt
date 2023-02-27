@@ -1,0 +1,7 @@
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\bin\Debug\CSharp.g.Functions.exe.config
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\bin\Debug\CSharp.g.Functions.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\bin\Debug\CSharp.g.Functions.pdb
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\obj\Debug\CSharp.J.Functions.csprojAssemblyReference.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\obj\Debug\CSharp.J.Functions.csproj.CoreCompileInputs.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\obj\Debug\CSharp.g.Functions.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.g.Functions\obj\Debug\CSharp.g.Functions.pdb

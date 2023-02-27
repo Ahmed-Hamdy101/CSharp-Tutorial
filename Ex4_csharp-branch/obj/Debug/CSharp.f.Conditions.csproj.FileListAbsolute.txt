@@ -1,0 +1,14 @@
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.exe.config
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.exe
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.pdb
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.exe
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.pdb
+C:\Users\Tor\Documents\Programming\C\CSharp\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.csprojAssemblyReference.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.exe.config
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\bin\Debug\CSharp.f.Conditions.pdb
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.csprojAssemblyReference.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.f.Conditions\obj\Debug\CSharp.f.Conditions.pdb

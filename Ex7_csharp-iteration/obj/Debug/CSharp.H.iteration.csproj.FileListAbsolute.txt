@@ -1,0 +1,7 @@
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\bin\Debug\CSharp.H.iteration.exe.config
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\bin\Debug\CSharp.H.iteration.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\bin\Debug\CSharp.H.iteration.pdb
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\obj\Debug\CSharp.H.iteration.csprojAssemblyReference.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\obj\Debug\CSharp.H.iteration.csproj.CoreCompileInputs.cache
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\obj\Debug\CSharp.H.iteration.exe
+C:\Users\Dark-Web\Desktop\SuperNerd\C#\CSharp.H.iteration\obj\Debug\CSharp.H.iteration.pdb
