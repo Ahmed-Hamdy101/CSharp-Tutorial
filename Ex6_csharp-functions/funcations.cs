@@ -25,7 +25,7 @@ namespace CSharp.g.Functions
             Console.Write(CLI());
 
         }
-        //void
+        //void is no return | static return void
         static void sharp(int[] a)
         {
             int[] array = a;
@@ -35,7 +35,7 @@ namespace CSharp.g.Functions
             }
         }
 
-        // return 
+        // function datatype is waiting to return something from method as reference
         static string CLI()
         {
             Console.Write(" ----------------Welcome in Tron------\n1 - Ask Question >\n2-StackOverFollow\n3-Github>\n4-Mafia Call\n5-Decode Message\nEnter:");
