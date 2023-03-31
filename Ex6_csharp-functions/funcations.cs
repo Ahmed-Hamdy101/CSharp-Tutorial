@@ -34,7 +34,6 @@ namespace CSharp.g.Functions
                 Console.WriteLine(array[item]);
             }
         }
-
         // function datatype is waiting to return something from method as reference
         static string CLI()
         {
