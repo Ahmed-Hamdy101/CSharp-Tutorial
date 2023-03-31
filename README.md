@@ -12,7 +12,6 @@
 
 
 ### Table Of Content :
-- [Chapter I (Baiscs)](./)
    - [Hello world](./Ex0_csharp-helloworld/HelloWorld.cs)
    - [Define variables](./Ex1_csharp-variables/varaibles.cs)
    - [Datatypes](./Ex2_csharp-datatypes/DataTypes.cs)
