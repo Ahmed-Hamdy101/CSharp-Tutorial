@@ -10,13 +10,10 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-
             /* hello world in C# */
             var cs = "hello C#!";
            // print it
             Console.WriteLn(cs)
-
-
         }
     }
 }
