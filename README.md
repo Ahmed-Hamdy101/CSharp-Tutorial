@@ -25,5 +25,5 @@
    - [branch|if_else|else_if](./Ex4_csharp-branch/if_else_elseif.cs)
    - [Switch case](./Ex5_csharp-switchcase/switch_case.cs)
    - [Functions](.//Ex6_csharp-functions/funcations.cs )
-   - [Iterations](./Ex7_csharp-iteration/iterations.cs )Ex8_csharp-arrays/arrays.cs
+   - [Iterations](./Ex7_csharp-iteration/iterations.cs )
    - [arrays](./Ex8_csharp-arrays/arrays.cs)
