@@ -26,7 +26,7 @@
 ### Requirements:
  - install visual studio any verison
  - or install CSharp IDE
- - choose open projects from the > File
+ - choose open projects from the  ```File```
  - choose *.sln file 
  - enjoy !
  
