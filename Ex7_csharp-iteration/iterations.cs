@@ -21,7 +21,7 @@ namespace CSharp.H.iteration
               space[i]= int.Parse(Console.ReadLine()); ;
               Console.WriteLine("one record is effected:"+space[i]);
             }
-            // we have foreact that looping for each index in array
+            // we have foreach that looping for each index in array
             foreach (var set in space)
             {
               Console.WriteLine("all Set is return:"+set);
@@ -47,7 +47,7 @@ namespace CSharp.H.iteration
              }
 
             }
-            // do while is like while loop but is excute first without condations and it come back to conditions
+            // do while is like while loop but is excute first without going to condations and it come back to conditions after excution 
             do
             {
                 Console.Write("Size is :" + size);
