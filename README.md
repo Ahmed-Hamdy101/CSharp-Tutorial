@@ -27,4 +27,3 @@
    - [Functions](.//Ex6_csharp-functions/funcations.cs )
    - [Iterations](./Ex7_csharp-iteration/iterations.cs )Ex8_csharp-arrays/arrays.cs
    - [arrays](./Ex8_csharp-arrays/arrays.cs)
- 
