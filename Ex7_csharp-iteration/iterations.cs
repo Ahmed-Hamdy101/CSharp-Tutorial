@@ -13,17 +13,21 @@ namespace CSharp.H.iteration
             Console.WriteLine("Enter the size of array :");
             int size =int.Parse(Console.ReadLine());
             int[]space= new int[size];
+            
+            // we have for loops that looping through sequence
             for (int i = 0; i < space.Length; i++)
             {
               Console.Write("Enter one record:");
               space[i]= int.Parse(Console.ReadLine()); ;
               Console.WriteLine("one record is effected:"+space[i]);
             }
+            // we have foreact that looping for each index in array
             foreach (var set in space)
             {
               Console.WriteLine("all Set is return:"+set);
 
             }
+            // we have while loop that looping based on conditions
             while (size >= 0 )
             {
             Console.Write("\nWarning !!! Do you want to change the number ?\n->");
@@ -43,7 +47,7 @@ namespace CSharp.H.iteration
              }
 
             }
-
+            // do while is like while loop but is excute first without condations and it come back to conditions
             do
             {
                 Console.Write("Size is :" + size);
