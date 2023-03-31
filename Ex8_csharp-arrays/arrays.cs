@@ -9,9 +9,14 @@ namespace CSharp.I.Array
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+           // first we array list that is define | var x = new double[size of array]
             var storageA = new int[6]{1,3,4,5,6,2};
-            Console.Write("How much you need for charaters ?\nanswer:");
+           // or second we can define later 
+            var storageC = new string[6]; // empty array we have size index there 
+            storageB[0] = "01010101010";
+           
+           Console.Write("How much you need for charaters ?\nanswer:");
             var accept = int.Parse(Console.ReadLine());
             var storageC = new string[accept];
             var count = 0;
