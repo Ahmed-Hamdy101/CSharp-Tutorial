@@ -12,14 +12,16 @@ namespace CSharp.c.DataTypes
         {
 
             //datatypes
+            // integer
             int ux = 1;
+            // string
             string system = "unix";
+            //boolean
             Boolean fx = true;
+            //char
             char chat = 'C';
+            //double
             double dd = 9.9;
-
-
-
         }
     }
 }
