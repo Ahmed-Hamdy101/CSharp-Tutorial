@@ -9,13 +9,8 @@
 
 </p>
 </div>
-### Requirements:
- - install visual studio any verison
- - or install CSharp IDE
- - choose open projects from the > File
- - choose *.sln file 
- - enjoy !
- 
+
+
 ### Table Of Content :
 - [Chapter I (Baiscs)](./)
    - [Hello world](./Ex0_csharp-helloworld/HelloWorld.cs)
@@ -27,3 +22,11 @@
    - [Functions](.//Ex6_csharp-functions/funcations.cs )
    - [Iterations](./Ex7_csharp-iteration/iterations.cs )
    - [arrays](./Ex8_csharp-arrays/arrays.cs)
+
+### Requirements:
+ - install visual studio any verison
+ - or install CSharp IDE
+ - choose open projects from the > File
+ - choose *.sln file 
+ - enjoy !
+ 
