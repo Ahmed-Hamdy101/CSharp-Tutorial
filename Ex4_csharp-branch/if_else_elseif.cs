@@ -14,10 +14,11 @@ namespace CSharp.f.Conditions
             int counter=0;
             Console.WriteLine("Increase : Press 1\nDiscard  : Press 0\n>");
             var push = int.Parse(Console.ReadLine());
+             // if: tell if something is true             
             if (push==1)
             {
                 counter += counter;
-            }
+            } //else : do another thing
             else
             {
                 counter -= counter;
@@ -27,7 +28,8 @@ namespace CSharp.f.Conditions
             if (counter < 2)
             {
                 Console.WriteLine("The counter is reach to 1% !");
-            }else if (counter<3) {
+            }// else if 
+            else if (counter<3) {
                 Console.WriteLine("The counter is reach to 2% !");
 
             }
